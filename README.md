@@ -1,4 +1,4 @@
-# **Government Financial Support for Art - India Dashboard**
+# **Government Financial Support for Art - India Dashboard** (Hosted on - https://app-dashboard-app-sf.streamlit.app/)
 
 ## **Overview**
 This project is a Streamlit app that allows users to upload state-wise art funding data in CSV format. The app processes the data and visualizes the funding trends over the years for each state in India. It aims to help users analyze how financial support for arts is distributed across different states in India.
